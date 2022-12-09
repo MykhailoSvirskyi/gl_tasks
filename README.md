@@ -1,3 +1,4 @@
+Files with completed tasks will be placed here.
 # gl_tasks
 Group number 1
 Mykhailo Svirskyi
